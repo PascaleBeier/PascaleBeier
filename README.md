@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently developing E-Commerce Platforms @ diva-e.
+- 🔭 I’m currently developing Learning Platforms @ IU.
 - Love PHP, Laravel and Symfony
